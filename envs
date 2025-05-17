@@ -1,0 +1,11 @@
+name: ont_hpc_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - pod5
+  - nanoplot
+  - fastqc
+  - cutadapt
+  - porechop
+  - python=3.10
